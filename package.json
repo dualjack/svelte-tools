@@ -1,12 +1,13 @@
 {
 	"name": "@dualjack/svelte-tools",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run prepack",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
-		"prepack": "svelte-kit sync && svelte-package && publint"
+		"prepack": "svelte-kit sync && svelte-package && publint",
+        "npm:publish": "npm publish --access public"
 	},
 	"files": [
 		"dist",
