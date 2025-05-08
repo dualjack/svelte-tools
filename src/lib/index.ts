@@ -1,2 +1,6 @@
 //  Entries re-exported.
-export * from "$lib/tools/watch/watch.svelte.js";
+import watch from "$lib/tools/watch/watch.svelte.js";
+
+export {
+    watch,
+}
