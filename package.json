@@ -1,7 +1,8 @@
 {
 	"name": "@dualjack/svelte-tools",
 	"version": "0.0.3",
-	"scripts": {
+    "repository": "https://github.com/dualjack/svelte-tools",
+    "scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run prepack",
 		"preview": "vite preview",
@@ -39,6 +40,6 @@
 		"vite": "^6.2.6"
 	},
 	"keywords": [
-		"svelte"
+		"svelte", "watch", "pausable"
 	]
 }

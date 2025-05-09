@@ -2,6 +2,8 @@
 
 ⚠️⚠️⚠️ **Still in development** ⚠️⚠️⚠️
 
+⚠️⚠️⚠️ **Not ready for production yet** ⚠️⚠️⚠️
+
 ## Why?
 
 I am not a fan of some design patterns in svelte, so I buckled up
