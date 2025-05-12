@@ -1,6 +1,6 @@
 {
 	"name": "@dualjack/svelte-tools",
-	"version": "0.0.3",
+	"version": "0.0.4",
     "repository": "https://github.com/dualjack/svelte-tools",
     "scripts": {
 		"dev": "vite dev",
